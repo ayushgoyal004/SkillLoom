@@ -1,9 +1,9 @@
 # SkillLoom
 ## Live 
-https://ed-tech-ayush.vercel.app/ \
+https://skillloom.vercel.app/ 
 ## Installation
 
-1. Clone the repository: `https://github.com/ayushgoyal004/StudyNotion.git`
+1. Clone the repository: `https://github.com/ayushgoyal004/SkillLoom.git`
 2. Navigate to the project directory: `cd `
 3. Install dependencies: `npm install`
 
