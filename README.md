@@ -1,4 +1,4 @@
-# StudyNotion
+# SkillLoom
 ## Live 
 https://ed-tech-ayush.vercel.app/ \
 ## Installation
@@ -24,7 +24,7 @@ Contributions are welcome! If you have any suggestions or find any issues, pleas
 
 ## System Architecture
 
-The Study Notion EdTech platform consists of three main components: the front-end, the back-end, and the database. The platform follows a client-server architecture, with the front-end serving as the client and the back-end and database serving as the server.
+The SkillLoom EdTech platform consists of three main components: the front-end, the back-end, and the database. The platform follows a client-server architecture, with the front-end serving as the client and the back-end and database serving as the server.
 
 ### Front-end
 
